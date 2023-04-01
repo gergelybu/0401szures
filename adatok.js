@@ -1,7 +1,7 @@
 export const KUTYALISTA = [
   {
     nev: "Dézi",
-    kor: 12,
+    kor: 4,
     fajta: "foxterrier",
     lab: 4,
     nem: "kan",
